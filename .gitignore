@@ -1,0 +1,3 @@
+*.ckpt
+/src/Armor-Plates-26/
+/src/lightning_logs/
